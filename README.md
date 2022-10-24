@@ -1,0 +1,1 @@
+# Two-Ways-to-Calculate-the-Factoral-of-a-Number
